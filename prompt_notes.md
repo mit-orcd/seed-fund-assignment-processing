@@ -24,14 +24,14 @@ Fifth prompt:
   
     I tried the program but got the error "ValueError: list.remove(x): x not in list"
 
-Sixth propmt:
+Sixth prompt:
   
     i did a test with 41 document ids and 8 names. the b00 id got assigned to four names while some ids only got assigned to one name. each document id sould be assigned to two different names and only two names.
 
-Seventh propmt:
+Seventh prompt:
   
     can you randomly shuffle the doc_ids array after b.txt has been read in and before calling the assign_documents function
 
-Eigth propmt:
+Eigth prompt:
   
     Can you add a function at the end that writes a separate output file holding an alphabetically sorted list of each document id and, alongside, the two names that have been assigned that document. 
